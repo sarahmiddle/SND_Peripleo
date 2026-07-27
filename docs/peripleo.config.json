@@ -1,5 +1,5 @@
 {
-  "initial_bounds": [-7.9, 49.5, 2.2, 59.4],
+  "initial_bounds": [14, 57, 17, 59],
   "map_style": "./map-style-OSM.json",
   "data": [
     {
@@ -10,7 +10,8 @@
     }
   ],
   "facets": [
-    "type"
+    { "name": "category", "path": ["properties", "category"] },
+    { "name": "year", "path": ["properties", "year"] }
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
