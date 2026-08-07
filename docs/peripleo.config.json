@@ -5,7 +5,7 @@
     {
       "name": "VisitPlus",
       "format": "LINKED_PLACES",
-      "src": "./data/agricultural-data-with-WGS84coordinates-separaterows-SM-20260727-2.json",
+      "src": "./data/agricultural-data-with-WGS84coordinates-separaterows-yearsasstrings-SM-20260807.json",
       "attribution": "VisitPlus © <a href=\"https://britishlibrary.github.io/locating-a-national-collection/\" target=\"_blank\"><i>Locating a National Collection</i> Partners & Contributors</a>"
     }
   ],
