@@ -1,0 +1,6 @@
+# Welcome to the *Peripleo* Demonstrator for *Database Sweden 1570-1810*
+This is a demonstrator for displaying the agricultural data from [*Database Sweden 1570-1810*](https://doi.org/10.5878/thkj-dt30) using the [*Peripleo*](https://github.com/britishlibrary/peripleo) geodata mapping software, developed through the *Locating a National Collection* project at the British Library.
+
+This dataset focuses on agraro-historical data from between 1570 and 1810 in the county of Östergötland, Sweden. The database relates to nationally recorded data digitised from church books and historic tax assessment lists, which include parish-level data on agricultural statistics, among others. For this demonstrator some of the variables in the Östergötland data were merged into larger categories, and then attributed to the respective parish as metadata.
+
+To filter the data by category, year, or value range, click the 'funnel' icon to the left of the map display and scroll through the available facets using the arrows.
