@@ -5,13 +5,14 @@
     {
       "name": "VisitPlus",
       "format": "LINKED_PLACES",
-      "src": "./data/agricultural-data-with-WGS84coordinates-separaterows-yearsasstrings-SM-20260807.json",
+      "src": "./data/agricultural-data-with-WGS84coordinates-SM-20260811.json",
       "attribution": "VisitPlus © <a href=\"https://britishlibrary.github.io/locating-a-national-collection/\" target=\"_blank\"><i>Locating a National Collection</i> Partners & Contributors</a>"
     }
   ],
   "facets": [
     { "name": "category", "path": ["properties", "category"] },
-    { "name": "year", "path": ["properties", "year"] }
+    { "name": "year", "path": ["properties", "year"] },
+    { "name": "value range", "path": ["properties", "value_range"] }
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
