@@ -21,6 +21,5 @@
     { "pattern": "www.wikidata.org", "img": null, "label": "Wikidata" },
     { "pattern": "www.geonames.org", "img": null, "label": "GeoNames" },
     { "pattern": "sws.geonames.org", "img": null, "label": "GeoNames" }
-  ],
-  "welcome_message": "welcome.md"
+  ]
 }
